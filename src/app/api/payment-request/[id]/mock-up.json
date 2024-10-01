@@ -1,0 +1,27 @@
+[
+  {
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "john.doe@example.com",
+    "lender": "LenderA",
+    "loan_id": "LN123",
+    "birth_year": "1980",
+    "ssn": "123456789",
+    "amount": 1000.00,
+    "loan_balance": 500000.00,
+    "id": "111"
+  },
+  {
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "email": "jane.smith@example.com",
+    "lender": "LenderB",
+    "loan_id": "LN456",
+    "birth_year": "1990",
+    "ssn": "987654321",
+    "amount": 1500.00,
+    "loan_balance": 750000.00,
+    "id": "222"
+
+  }
+]
